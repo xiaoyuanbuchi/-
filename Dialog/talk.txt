@@ -1,0 +1,8 @@
+B
+...
+A
+Hello!Who are you？
+B
+You don't need to know my name, but I must warn you that there is danger ahead, are you sure you want to move forward?
+A
+Sure！
